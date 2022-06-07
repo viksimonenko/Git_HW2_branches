@@ -1,0 +1,12 @@
+ID: 
+Summary: 
+Severity (Critical, Major, Medium, Minor):
+Issue Type:
+Description: 
+Reproduced on: 
+Reproducibility: 
+Symptom: 
+Steps to reproduce: 
+Actual result: 
+Expected result: 
+Attachments: 
