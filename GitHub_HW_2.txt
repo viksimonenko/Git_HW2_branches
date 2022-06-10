@@ -10,7 +10,7 @@ GitHub. HW_2
 - Mobile testing : git branch Mobile_testing
 
 2. Запушить все ветки на внешний репозиторий
-git push -u origin all
+git push -u origin --all
 
 3. В ветке Bug Reports сделать текстовый документ со структурой баг репорта
 git checkout Bug_Reports
